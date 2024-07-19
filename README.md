@@ -11,7 +11,7 @@ HTML e CSS
 
 ## Título:
 HTML e CSS: Devemos Aprender Juntos ou Separados?
-
+![Capa](Capa-Html-css.png)
 ## Capa/imagens:
 Canva 
 Power Point
@@ -34,7 +34,7 @@ Use blocos de no máximo 4 linhas com chamadas criativas para reter atenção do
 - Recomendações para inicintes
 - Conclusão
 
-##Repositório:
+##Repositório:https://github.com/Dinara-Ribeiro/Criando-artigos-chatgpt
 
 ## Conteúdo:🤞
 Gerado por chatGpt e revisado por interações humanas.
